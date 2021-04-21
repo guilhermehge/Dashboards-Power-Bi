@@ -1,4 +1,4 @@
-# Dashboards Power Bi
+# Financial Control Dashboard
 
 I have always controlled my expenses through Excel. I used to set up an interface and create a database to see the expenses and salaries on a monthly basis.
 
