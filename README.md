@@ -1,4 +1,4 @@
-# Dashboards Power Bi
+# Dashboards Power BI
 Greetings!
 
 In this repository you will find the dashboards that I make. I either make them for personal use or for studying with new data.
