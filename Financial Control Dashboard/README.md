@@ -12,3 +12,11 @@ For everyone to understand, I followed a few premises:
 5. The screenshots bring: No monthly filter, filter for the month of April, filter by card invoice and filter by category.
 
 The data has been artificially generated just for demonstration purposes
+
+Tips for using the dashboard:
+1. The whole page is filtered for 2021. If you want to see another year, just filter the page or add a small filter for year;
+2. The forecasts should be added at the beginning of each month in the excel spreadsheet;
+3. To add new spendings, salary or investments, use the excel spreadsheet;
+4. Have fun!
+
+You can report an issue [here](https://github.com/guilhermehge/Dashboards-Power-Bi/issues)
