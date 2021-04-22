@@ -2,7 +2,7 @@
 
 I have always controlled my expenses through Excel. I used to set up an interface and create a database to see the expenses and salaries on a monthly basis.
 
-But then I thought, why not make it as dashboard in Power BI? I did and I was very happy with the result.
+But then I thought, why not make it as dashboard in Power BI? I did it and I was very happy with the result.
 
 For everyone to understand, I followed a few premises:
 1. I forecast at the beginning of each month how much I intend to spend per category without the investment amount;
