@@ -17,6 +17,7 @@ Tips for using the dashboard:
 1. The whole page is filtered for 2021. If you want to see another year, just filter the page or add a small filter for year;
 2. The forecasts should be added at the beginning of each month in the excel spreadsheet;
 3. To add new spendings, salary or investments, use the excel spreadsheet;
-4. Have fun!
+4. Feel free to edit the categories, banks, anything you want;
+5. Have fun!
 
 You can report an issue [here](https://github.com/guilhermehge/Dashboards-Power-Bi/issues)
