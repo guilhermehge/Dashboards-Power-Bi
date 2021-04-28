@@ -7,3 +7,4 @@ Each project will be in a different folder along with a README.md file explainin
 
 Projects:
 - [Financial Control Dashboard](https://github.com/guilhermehge/Dashboards-Power-Bi/tree/main/Financial%20Control%20Dashboard)
+- [Courses Dashboards](https://github.com/guilhermehge/Dashboards-Power-Bi/tree/main/Courses%20Dashboards)
